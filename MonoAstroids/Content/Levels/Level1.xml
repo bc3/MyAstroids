@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent>
+  <Asset Type="MyAstroids.LevelMyAstroids">
+    <Number>1</Number>
+    <NumberOfRocks>5</NumberOfRocks>
+    <DurationOfSpeedPowerup>0</DurationOfSpeedPowerup>
+    <DurationOfBulletPowerUp>0</DurationOfBulletPowerUp>
+    <SeedOfSpeedPowerup>0</SeedOfSpeedPowerup>
+    <DurationOfSpeedPowerUp>0</DurationOfSpeedPowerUp>
+    <SpaceShipHealth>0</SpaceShipHealth>
+  </Asset>
+</XnaContent>

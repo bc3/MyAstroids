@@ -1,0 +1,31 @@
+﻿* powerups (+graphics)
+	- invincible (shield)
+	- freeze
+	- speed
+	- bullet
+	
+* laserbeam (+graphics)
+
+* scrolling world
+
+* geluid
+	
+* highscores
+	- hitpoints voorzien op gameobject
+	- multiplier systeem zoals bij bejeweld (speedmeter)
+	- scoring mechanisme
+	- board + propere letter graphics
+	
+* levels
+	- array van strings met level definities
+	
+* bullet
+
+* fysica
+	- 2 ballen die botsen
+	- gravity
+	- friction
+	- force
+	- inertie
+	
+* multiplayer
